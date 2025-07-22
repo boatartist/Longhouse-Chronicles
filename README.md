@@ -15,3 +15,5 @@ Made Using Pygame
 Graphics made using Pixilart
 
 Name by ChatGPT
+
+<img width="600" height="602" alt="cover_image" src="https://github.com/user-attachments/assets/bc08514d-2188-41b2-932c-24dde30b27e1" />
